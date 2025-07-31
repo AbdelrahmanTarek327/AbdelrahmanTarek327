@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman 👋
 
-<!--
-**AbdelrahmanTarek327/AbdelrahmanTarek327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communications Engineer  
+📊 Data Analyst | ML Enthusiast | Power BI | Python | AI  
+🌍 Based in Egypt | Open to remote work
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (NumPy, Pandas, Scikit-Learn, Matplotlib)
+- Power BI & Excel Dashboards
+- Machine Learning Models (XGBoost, SVM, KNN)
+- Data Cleaning & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Kidney Disease Classification](https://github.com/yourusername/kidney-disease-classification)  
+  ML models to predict kidney disease using health data.
+  
+- [AdventureWorks-PowerBI-Project](https://github.com/AbdelrahmanTarek327/AdventureWorks-PowerBI-Project)  
+  Ongoing project using DAX and Power BI.
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-tarek-b95ab4239/)
+- [GitHub](https://github.com/AbdelrahmanTarek327)
