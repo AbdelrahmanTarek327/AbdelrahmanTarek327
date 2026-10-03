@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm an Electronics & Communications Engineering graduate<br>🤖 I'm currently working on AI, Machine Learning & Generative AI projects<br>🤝 I'm looking to collaborate on AI/ML, LLM & RAG projects<br>💡 I'm looking for help with advanced AI Engineering & LLM systems<br>🌱 I'm currently learning PyTorch, LLMs, AI Agents & MLOps<br>💬 Ask me about Python, Machine Learning, Generative AI, RAG & Power BI<br>⚡
+🎓 I'm an Electronics & Communications Engineering graduate<br>🤖 I'm currently working on AI, Machine Learning & Generative AI projects<br>🤝 I'm looking to collaborate on AI/ML, LLM & RAG projects<br>💡 I'm looking for help with advanced AI Engineering & LLM systems<br>🌱 I'm currently learning PyTorch, LLMs, AI Agents & MLOps<br>💬 Ask me about Python, Machine Learning, Generative AI, RAG & Power BI<br>
 
 
 ## 🌐 Socials:
