@@ -71,16 +71,6 @@
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/AbdelrahmanTarek327">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanTarek327&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanTarek327&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
