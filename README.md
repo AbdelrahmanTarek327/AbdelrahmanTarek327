@@ -71,10 +71,12 @@
 
 ---
 
-### 📈 Contribution Activity
+## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanTarek327&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <a href="https://github.com/AbdelrahmanTarek327">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanTarek327&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
 </p>
 
 ---
